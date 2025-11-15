@@ -1,1 +1,28 @@
-101.532  files  size:  85,4 GB
+Data
+----
+Selecting companies for the research data
+1. Generate list from Bel-first
+   Status: Active enterprises
+   Effective information: All enterprises with at least one statutory auditor
+   Companies/associations that file annual accounts
+   Status categories included: Active enterprises, entities in a legal transition period, and entities with unknown status
+   NACE-BEL: all except Financial services (category K: codes 64-67)
+   Years with available annual accounts: 2022, 2021, 2020, 2019, 2018
+     remark: these companies have annual accounts in all these years 
+             these are the accounting years, in the publication we speak about publication years
+2. Download the annual accounts from NBB - CBSO of these companies
+3. Result 101.532  xbrl files  size:  85,4 GB
+
+Insolvencies
+Legal status:
+  Bankruptcy
+  Judicial reorganisation
+  Judicial reorganisation prior to bankruptcy
+  Judicial reorganisation following bankruptcy
+downloaded on 14/08/2025
+inner merge with the downloaded xbrls resulted in 22 insolvencies.   
+
+Altman-z"
+from Bel-first 
+same companies , altman-z" score is of last annual account
+
