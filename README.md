@@ -27,7 +27,6 @@ Analysis of 116,493 Belgian corporate annual reports using transformer-based nat
 ├── LICENSE                            # MIT License for code
 ├── LICENSE_DATA                       # CC0 for processed data
 ├── requirements.txt                   # Python dependencies
-├── environment.yml                    # Conda environment (optional)
 │
 ├── 01_preprocessing/                  # XBRL parsing & feature extraction
 │   ├── README.md                      # Preprocessing documentation
